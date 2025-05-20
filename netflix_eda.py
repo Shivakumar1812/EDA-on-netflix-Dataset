@@ -1,1 +1,0 @@
-print("exploratory data analysis on netflix eda project")
